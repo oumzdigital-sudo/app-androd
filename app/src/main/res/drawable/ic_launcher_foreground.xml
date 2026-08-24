@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Form / Mail Send Icon inside 66dp safe zone (21 to 87 on 108dp canvas) -->
+    <!-- Document / Form Background Shape -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,26 C30.68,26 28,28.68 28,32 L28,76 C28,79.32 30.68,82 34,82 L74,82 C77.32,82 80,79.32 80,76 L80,32 C80,28.68 77.32,26 74,26 L34,26 Z" />
+    <!-- Form Lines -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M36,36 L72,36 A3,3 0 0,1 72,42 L36,42 A3,3 0 0,1 36,36 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M36,48 L64,48 A3,3 0 0,1 64,54 L36,54 A3,3 0 0,1 36,48 Z" />
+    <!-- Send Arrow Accent Circle -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M64,64 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+    <!-- Send Arrow Path -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M58,56 L73,64 L58,72 L62,65.5 L68,64 L62,62.5 Z" />
+</vector>

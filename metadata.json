@@ -1,0 +1,6 @@
+{
+  "name": "Formulario",
+  "description": "Formulario de contacto para ingresar nombre y correo electrónico",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
